@@ -2,8 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const MyInfo = ({ email, name }) => (
-  <p className="starwars-color sm">
-    Developed By <a href={`mailto:${email}`} className="sm starwars-color md" title="you can directly give suggestions by this e-mail" >{name}</a>
+  <p>
+    Developed By <a href={`mailto:${email}`} title="you can directly give suggestions by this e-mail" >{name}</a>
   </p>
 );
 

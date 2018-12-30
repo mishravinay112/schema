@@ -1,4 +1,4 @@
-# Starwars-Films
+# SCHEMA TEST
 Single Page Application using React/Redux that lists all of a company’s
 employees.
 
