@@ -1,0 +1,10 @@
+
+.app {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+body {
+  background-size: cover;
+}

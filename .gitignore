@@ -1,0 +1,17 @@
+# IDEs
+.idea/
+.vscode/
+
+# Node.js modules
+node_modules
+
+# Npm lock
+package-lock.json
+npm-debug.log
+
+# Mac
+.DS_Store
+
+# Distribution
+public/
+dist/
