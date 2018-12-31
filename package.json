@@ -1,5 +1,5 @@
 {
-  "name": "schema test",
+  "name": "schema",
   "version": "0.0.1",
   "description": "web page that lists all of a company’s employees.",
   "main": "src/index.js",
